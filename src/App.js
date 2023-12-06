@@ -1,9 +1,10 @@
+import AllPages from "./pages";
 
 
 function App() {
   return (
     <div className="App">
-       APPPP
+      <AllPages/>
     </div>
   );
 }
